@@ -94,6 +94,7 @@ body {
 .heading-primary {
   color: black;
   text-transform: uppercase;
+  backface-visibility: hidden;
 }
 .heading-primary--main {
   display: block;
